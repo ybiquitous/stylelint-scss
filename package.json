@@ -35,7 +35,7 @@
     "postcss-scss": "^4.0.1",
     "prettier": "^2.7.1",
     "rimraf": "^3.0.2",
-    "stylelint": "^14.5.1"
+    "stylelint": "github:stylelint/stylelint#v15"
   },
   "peerDependencies": {
     "stylelint": "^14.5.1"
